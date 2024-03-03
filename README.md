@@ -53,10 +53,6 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 - This project is inspired by [The Higher Lower Game](https://www.higherlowergame.com/).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Authors
 
 - Rudra Shah - [My GitHub Profile](https://github.com/rshah-92)
