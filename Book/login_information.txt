@@ -1,0 +1,12 @@
+ss,ss,ss,ss
+a,a,a,d
+12435,heeloo,byeeee,1223
+rshah92@asu.edu,rudra,rana,test1234
+shahrudra71@gmail.com,ss,ss,12345678
+abc@asu.edu,jrkhgi,wkjuiwr,12345678
+sssss@gmail.com,hh,ss,12345678
+doe@gmail.com,jj,doe,12345678
+g@gmail.com,g,g,rudrashah
+jk@gmail.com,j,k,gmail@123
+test@gmail.com,test,test,test1234
+gbordoli@asu.edu,gio,bordoli,porcodio
